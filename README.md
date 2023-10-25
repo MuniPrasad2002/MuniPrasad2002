@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MuniPrasad2002
+- 👋 Hi, I’m Padagandla Muni Prasad
 - 👀 I’m interested in Devloping
-- 🌱 I’m recently completed with my JAVA FULL STACK DEVLOPMENT
+- 🌱 I was recently completed with my JAVA FULL STACK DEVLOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/muni-prasad-b96aa6277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bbxsdkp34T62yDLUarCLdOg%3D%3D
 
